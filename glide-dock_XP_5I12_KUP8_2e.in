@@ -1,0 +1,7 @@
+CALC_INPUT_RMS   True
+GRIDFILE   "C:\Users\Asus\Documents\Schrodinger\00Eski Calismalar\5I12_MMP9\glide_grid_5I12_MMP9\glide-grid_5I12_MMP9.zip"
+LIGANDFILE   "C:\Users\Asus\Documents\Schrodinger\00Eski Calismalar\4EHA_caspase3\KUP\ligprep_kup8_2e\ligprep_kup8_2e-out.maegz"
+POSES_PER_LIG   5
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True

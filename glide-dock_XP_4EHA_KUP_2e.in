@@ -1,0 +1,6 @@
+CALC_INPUT_RMS   True
+GRIDFILE   C:\Users\Asus\Documents\Schrodinger\glide-grid_4EHA_caspase3\glide-grid_4EHA_caspase3.zip
+LIGANDFILE   C:\Users\Asus\Documents\Schrodinger\ligprep_kup8_2e\ligprep_kup8_2e-out.maegz
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True

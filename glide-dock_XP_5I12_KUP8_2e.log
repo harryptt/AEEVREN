@@ -1,0 +1,147 @@
+[running at reduced cpu priority]
+ Date: Thursday, December 24 2020, at 15:07:54 Türkiye Standart Saati
+ Glide version 71014
+ mmshare version        34014
+ Copyright (c) Schrodinger, LLC.
+ All Rights Reserved.
+
+ Windows Host: AEvrimE
+ Job Name: glide-dock_XP_5I12_KUP8_2e
+ JobId:    AEvrimE-0-5fe48492
+ SCHRODINGER  directory: D:\Schrodinger2016-2
+ GLIDE_EXEC  directory: D:\Schrodinger2016-2\glide-v7.1\bin\Windows-x64
+ MMSHARE_EXEC directory: D:\Schrodinger2016-2\mmshare-v3.4\bin\Windows-x64
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+ After readscreen, (nx, ny, nz) = (          30 ,           30 ,           30 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           30 , 
+          30 ,           30 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+
+ Metal   At. Num.  Eff. Charge  Category    x         y         z
+ 1248      30        2.00           1    22.237   -16.546    19.160
+ 1249      30        1.00           1    19.407   -17.088     6.209
+ 1250      20       -1.00          -1    10.718   -20.198    13.574
+ 1251      20        1.00           1    27.495    -9.250     4.292
+ 1252      20        0.00           2     5.724   -12.504    10.332
+  
+ DOCKMAIN: Grid setup finished
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+Full force-field refinement in receptor field for up to   10 poses
+    4 poses will be postminimized for this ligand
+ Number of poses to report:           4
+Reporting postminimized pose   2 GlideScore =     -6.513
+GlideScore(   -6.51)+Epik State Penalty(    0.18) =    -6.34 kcal/mol
+Reporting postminimized pose   3 GlideScore =     -5.151
+GlideScore(   -5.15)+Epik State Penalty(    0.18) =    -4.97 kcal/mol
+Reporting postminimized pose   1 GlideScore =     -5.083
+GlideScore(   -5.08)+Epik State Penalty(    0.18) =    -4.91 kcal/mol
+Reporting postminimized pose   4 GlideScore =     -2.617
+GlideScore(   -2.62)+Epik State Penalty(    0.16) =    -2.46 kcal/mol
+DOCKING RESULTS FOR LIGAND        1 (KUP8_2e)
+Best XP pose:     8;  GlideScore =     -6.51 Emodel =    -69.95 E =    -52.65 Eint =     9.26
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+    4 poses will be postminimized for this ligand
+ Number of poses to report:           4
+Reporting postminimized pose   4 GlideScore =     -6.195
+GlideScore(   -6.19)+Epik State Penalty(    1.20) =    -5.00 kcal/mol
+Reporting postminimized pose   1 GlideScore =     -5.614
+GlideScore(   -5.61)+Epik State Penalty(    1.20) =    -4.42 kcal/mol
+Reporting postminimized pose   3 GlideScore =     -5.040
+GlideScore(   -5.04)+Epik State Penalty(    1.09) =    -3.95 kcal/mol
+Reporting original pose   2 GlideScore =     -3.904
+GlideScore(   -3.90)+Epik State Penalty(    1.20) =    -2.71 kcal/mol
+DOCKING RESULTS FOR LIGAND        2 (KUP8_2e)
+Best XP pose:     3;  GlideScore =     -5.04 Emodel =    -74.98 E =    -54.32 Eint =     4.47
+GLIDE WARNING: The above ligand had one or more atoms outside the grid box during energy evaluation or minimization.
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+    6 poses will be postminimized for this ligand
+ Number of poses to report:           5
+Reporting postminimized pose   1 GlideScore =     -6.626
+GlideScore(   -6.63)+Epik State Penalty(    1.63) =    -5.00 kcal/mol
+Reporting postminimized pose   5 GlideScore =     -5.636
+GlideScore(   -5.64)+Epik State Penalty(    1.63) =    -4.01 kcal/mol
+Reporting postminimized pose   6 GlideScore =     -5.480
+GlideScore(   -5.48)+Epik State Penalty(    1.63) =    -3.85 kcal/mol
+Reporting postminimized pose   3 GlideScore =     -5.465
+GlideScore(   -5.46)+Epik State Penalty(    1.63) =    -3.84 kcal/mol
+Reporting original pose   2 GlideScore =     -1.918
+GlideScore(   -1.92)+Epik State Penalty(    1.52) =    -0.40 kcal/mol
+DOCKING RESULTS FOR LIGAND        3 (KUP8_2e)
+Best XP pose:     1;  GlideScore =     -6.63 Emodel =    -79.98 E =    -57.76 Eint =     4.63
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+ Number of rotatable bonds            6
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-p
+  
+    3 poses will be postminimized for this ligand
+ Number of poses to report:           3
+Reporting postminimized pose   2 GlideScore =     -6.212
+GlideScore(   -6.21)+Epik State Penalty(    1.66) =    -4.55 kcal/mol
+Reporting postminimized pose   3 GlideScore =     -5.708
+GlideScore(   -5.71)+Epik State Penalty(    1.66) =    -4.05 kcal/mol
+Reporting postminimized pose   1 GlideScore =     -1.871
+GlideScore(   -1.87)+Epik State Penalty(    4.04) =     2.17 kcal/mol
+DOCKING RESULTS FOR LIGAND        4 (KUP8_2e)
+Best XP pose:     1;  GlideScore =     -1.87 Emodel =    -67.13 E =    -53.61 Eint =    18.03
+
+Glide is executing the glide_sort command.
+Command-line equivalent is:
+ "D:\Schrodinger2016-2\utilities\glide_sort" -n 0 -o "glide-dock_XP_5I12_KUP8_2e_pv.maegz"    -hbond_cut 0.00 -cvdw_cut 0.00 -metal_cut 10.00 -gscore_cut 100.00 "glide-dock_XP_5I12_KUP8_2e_raw.maegz"
+REPORT OF BEST 16 POSES
+
+The receptor and sorted ligand structures were written to the file
+glide-dock_XP_5I12_KUP8_2e_pv.maegz  for use in the Pose Viewer.
+
+Final rankings based on original docking score
+0 poses were rejected by the energy filters,
+    Coul+vdw Energy <=     0.0    Hbond Interaction <=     0.0    Metal Interaction <=    10.0    GlideScore <=   100.0
+(If any of the above properties is not defined for a given pose,
+the corresponding filter is not applied to that pose.)
+
+
+glide_sort command succeeded.  Pose file glide-dock_XP_5I12_KUP8_2e_pv.maegz was written.
+
+Exiting Glide
+Date: Thursday, December 24 2020, at 15:14:28 Türkiye Standart Saati
+CPU time (s): 382.6 user, 5.2 system, 394.3 real
+Total elapsed time = 394 seconds (6 minutes, 34 seconds)
